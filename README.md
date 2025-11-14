@@ -1,5 +1,4 @@
 
-```markdown
 #  Mon Projet React - Blog Moderne
 
 Un blog moderne et élégant développé avec React, comprenant un système de gestion d'articles complet avec recherche, édition et stockage local.
