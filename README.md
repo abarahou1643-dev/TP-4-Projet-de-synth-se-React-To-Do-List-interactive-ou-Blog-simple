@@ -3,6 +3,10 @@
 
 Un blog moderne et élégant développé avec React, comprenant un système de gestion d'articles complet avec recherche, édition et stockage local.
 
+ # Dossier Drive :
+ 
+
+
 ##  Fonctionnalités
 
 ###  Fonctionnalités Principales
@@ -104,4 +108,20 @@ npm test       # Lance les tests
 
  ## Vidéo de Démonstration
  
+
+
+https://github.com/user-attachments/assets/27470821-7d58-4c35-bf4e-94f2980835de
+
+
+
+https://github.com/user-attachments/assets/27aedeb8-5534-45ef-aa75-b6ed9c09e16b
+
+
+
+
+https://github.com/user-attachments/assets/1538033e-e1ca-40e9-a411-f6dbb0c903b0
+
+
+
+https://github.com/user-attachments/assets/3bb53021-49c4-4a06-8687-379264f4b487
 
